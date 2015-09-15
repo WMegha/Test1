@@ -1,0 +1,12 @@
+git clone
+git status
+git add "File name"
+git commit -m "Message for commit"
+git push 
+
+
+
+git checkout "branch name/filename" 
+
+
+git branch -a //list out all branches
